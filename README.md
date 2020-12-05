@@ -1,5 +1,6 @@
-# Private FM Sketch
-Code for differentially private Flajolet-Martin sketch.
+# Differentially Private Flajolet-Martin Sketch
+
+Code for [The Flajolet-Martin Sketch Itself Preserves Differential Privacy: Private Counting with Minimal Space](https://papers.nips.cc/paper/2020/file/e3019767b1b23f82883c9850356b71d6-Paper.pdf).
 
 This is not an officially supported Google product.
 
